@@ -1,4 +1,7 @@
 # 初心者向けLT事始めガイド
+## このドキュメントについて
+このドキュメントは、初めてLTにトライする人向けのガイドです。  
+読んだ方がLTの流れについてイメージできるようになることを目指しています。
 ## はじめに
 ### LTとは？
 LTとはLightning Talks（ライトニングトーク・稲妻トーク）の略です。  
@@ -70,6 +73,14 @@ tips:
 ここまできたら、もうあとは、頑張るだけ！  
 発表を楽しんでください！
 
+
+## ご参考：他の人のLT資料
+ふみふみ「[Rustの女性コミュニティが無いので作った結果](https://www.docswell.com/s/2323-code/K4VQ4G-2024-08-17-201543)」  
+しおつき「[JEP 482 Flexible Constructor Bodies (Second Preview)](https://speakerdeck.com/marikashiotsuki/12-jjug-naitosemina-jep-482-flexible-constructor-bodies-second-preview)」
+
+## ご参考：Marpのサンプル
+[こちら](/samples)は、MarpのmarkdownからスライドのPDFを作成しています。  
+ぜひご参考ください！
 
 ## おわりに
 以上、LT登壇のガイドでした。  
