@@ -9,6 +9,8 @@ LT 資料のサンプルです。
   - このファイルを marp でプレビューすると、スライド形式で表示されます。
 - `sample.pdf`
   - marp を使って `sample.md` を PDF に変換したファイルです。
+- より詳しい使い方は、下記の`Usage`も参考にしてくださいね。
+  - [marp-team/marp-vscode: Marp for VS Code: Create slide deck written in Marp Markdown on VS Code](https://github.com/marp-team/marp-vscode?tab=readme-ov-file#usage)
 
 ## 参考資料
 
